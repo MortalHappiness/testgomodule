@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/MortalHappiness/testgomodule/a"
+	"github.com/MortalHappiness/testgomodule/c"
 )
 
 func main() {
-	fmt.Println(a.Hello())
+	fmt.Println(c.HelloFromC())
 }
